@@ -23,6 +23,16 @@
 <br>
 
 <p align="center">
+  <img
+    src="./ai-student-robot.png"
+    width="850"
+    alt="AI Student Robot"
+  />
+</p>
+
+<br>
+
+<p align="center">
 
 <a href="https://github.com/hassanhr39">
 <img src="https://img.shields.io/badge/GitHub-hassanhr39-0D080A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=800F2F"/>
