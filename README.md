@@ -23,16 +23,6 @@
 <br>
 
 <p align="center">
-  <img
-    src="./ai-student-robot.png"
-    width="850"
-    alt="AI Student Robot"
-  />
-</p>
-
-<br>
-
-<p align="center">
 
 <a href="https://github.com/hassanhr39">
 <img src="https://img.shields.io/badge/GitHub-hassanhr39-0D080A?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=800F2F"/>
@@ -58,6 +48,16 @@
 <img src="https://komarev.com/ghpvc/?username=hassanhr39&label=PROFILE%20VISITORS&color=800F2F&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/hassanhr39?label=FOLLOWERS&style=for-the-badge&color=D7265B&labelColor=0D080A"/>
 <img src="https://img.shields.io/github/stars/hassanhr39?label=STARS&style=for-the-badge&color=FF6F91&labelColor=0D080A"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="./ai-student-robot.png"
+    width="850"
+    alt="AI Student Robot"
+  />
 </p>
 
 <br>
