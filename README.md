@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Talha Gillani
+# 👋 Hey, I'm Mohammad Hassan
 
 <p align="center">
   <a href="https://github.com/Talhahaha21">
